@@ -12,20 +12,20 @@
 Production-ready threat intelligence system deployed on AWS EC2 capturing real-time SSH/Telnet attacks
 
 **📁 Project Links:**
-[![View Configuration](https://img.shields.io/badge/⚙️_View_Config-Docker_Compose-2496ED?style=for-the-flat&logo=docker)](https://github.com/JasminJaml/Honeypot-Threat-Dashboard/blob/main/docker-compose.yml.txt)
-[![Live Dashboard](https://img.shields.io/badge/📊_Live_Dashboard-Kibana_Visualization-FF7139?style=for-the-flat)](http://51.21.171.162:5601)
+[![View Project](https://img.shields.io/badge/📂_Full_Project-Repository-2EA44F?style=for-the-flat&logo=github)](https://github.com/JasminJaml/Honeypot-Threat-Dashboard)
+[![Live Dashboard](https://img.shields.io/badge/📊_Kibana_Interface-Login_Required-FF7139?style=for-the-flat)](http://51.21.171.162:5601)
 
 **🏗️ Architecture:** 4-Container Docker Deployment
-- **🐝 Cowrie Honeypot**: Internet-exposed SSH/Telnet sensor
-- **📊 ELK Stack**: Elasticsearch, Logstash, Kibana for data analysis
-- **🚀 Filebeat**: Log shipper for real-time data processing
-- **☁️ AWS EC2**: Cloud deployment with security groups
+- **🐝 Cowrie Honeypot**: SSH/Telnet attack capture
+- **📊 ELK Stack**: Data analysis and visualization  
+- **🚀 Filebeat**: Real-time log processing
+- **☁️ AWS EC2**: Cloud deployment
 
-**🎯 Key Features:**
-- Real-time attack visualization and mapping
-- TTP (Tactics, Techniques, Procedures) analysis
-- Multi-container orchestration with Docker Compose
-- Production deployment on cloud infrastructure
+**📚 Project Includes:**
+- Complete Docker Compose configuration
+- Filebeat configuration for log parsing
+- Detailed project documentation
+- Production deployment guide
 
 ## 📜 Certifications
 - [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/d268dbbcde134cd273733117f9278b28)
