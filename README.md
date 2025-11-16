@@ -5,7 +5,7 @@
 ## 🔧 Technical Skills
 - **Security:** Honeypots, Threat Intelligence, ELK Stack, AWS
 - **Tools:** Docker, Wireshark, SIEM, Linux
-- **Certifications:** Google Cybersecurity Professional
+- **Certifications:** [Google Cybersecurity Professional](https://coursera.org/share/d268dbbcde134cd273733117f9278b28)
 
 ## 🚀 Featured Project
 ### 🔍 Interactive Honeypot & Threat Analysis Dashboard
