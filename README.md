@@ -11,9 +11,13 @@
 ### 🔍 Interactive Honeypot & Threat Analysis Dashboard
 4-container Docker system capturing real-time cyberattacks with AWS EC2 deployment
 
+**📁 Project Links:**
+[![View Code](https://github.com/JasminJaml/Honeypot-Threat-Dashboard)
+[![Live Demo](http://51.21.171.162:5601/app/discover#/?_a=(columns:!(username,password,src_ip,eventid,session,protocol),filters:!(),index:f8364a20-c08b-11f0-8e7d-bd1f5be02fa1,interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))&_g=(filters:!(),query:(language:kuery,query:''),refreshInterval:(pause:!t,value:0),time:(from:now-60m,to:now)
+
 **🛠️ Tech Stack:** Cowrie Honeypot, ELK Stack, Filebeat, Docker  
 **🎯 Features:** Real-time attack visualization, TTP analysis  
-**☁️ Deployment:** AWS EC2
+**☁️ Deployment:** AWS EC2 Instance
 
 ## 📜 Certifications
 - [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/d268dbbcde134cd273733117f9278b28)
