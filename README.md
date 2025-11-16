@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jasmin! <br/><a href="https://www.linkedin.com/in/joshmadakor/">MSc Cybersecurity Student | Aspiring Cybersecurity Professional</a>
 
+## 🔧 Technical Skills
+- **Security:** Honeypots, Threat Intelligence, ELK Stack, AWS
+- **Tools:** Docker, Wireshark, SIEM, Linux
+- **Certifications:** Google Cybersecurity Professional
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Interactive Honeypot Deployment and Threat Analysis Dashboard
