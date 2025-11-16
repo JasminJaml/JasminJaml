@@ -5,10 +5,14 @@
 - **Tools:** Docker, Wireshark, SIEM, Linux
 - **Certifications:** Google Cybersecurity Professional
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 🚀 Featured Project
+### 🔍 Interactive Honeypot & Threat Analysis Dashboard
+4-container Docker system capturing real-time cyberattacks with AWS EC2 deployment
+- **Tech:** Cowrie Honeypot, ELK Stack, Filebeat, Docker
+- **Features:** Real-time attack visualization, TTP analysis
 
-- <b>Interactive Honeypot Deployment and Threat Analysis Dashboard
-<h2> Certifications</h2>
+## 📊 GitHub Stats
+![Jasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sccount&show_icons=true&theme=radical)
 
 - [Google Cybersecurity](https://coursera.org/share/d268dbbcde134cd273733117f9278b28)
 
@@ -20,3 +24,5 @@
 
 [linkedin]: https://www.linkedin.com/in/jasminjamal/
 [instagram]: https://www.instagram.com/jasminjaml
+
+⚡ **Fun Fact:** I turn attack data into defense intelligence!
