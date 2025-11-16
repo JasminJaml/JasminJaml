@@ -35,4 +35,4 @@
 
 [linkedin]: https://www.linkedin.com/in/jasminjamal/
 [instagram]: https://www.instagram.com/jasminjaml
-[github]: https://github.com/sccount
+[github]: https://github.com/JasminJaml
