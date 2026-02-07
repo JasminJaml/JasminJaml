@@ -17,7 +17,7 @@ Currently building hands-on experience in Security Operations through practical 
 - Preparing for CompTIA Security+ certification
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/jasminjamal/]
+- LinkedIn: https://www.linkedin.com/in/jasminjamal/
 - Email: jasminjamal7839@gmail.com
 
 
