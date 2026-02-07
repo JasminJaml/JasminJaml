@@ -1,13 +1,26 @@
-# 👋 Hi, I'm Jasmin!
+# Hi there, I'm Jasmin! 👋
 
-## MSc Cybersecurity Graduate | SOC Analyst | Threat Hunter
+## 🎓 About Me
+MSc Cybersecurity graduate from Coventry University (Jan 2026) with a passion for threat detection and incident response.
 
-Recent cybersecurity graduate from Coventry University (75% Distinction) with hands-on experience in threat detection, incident response, and security operations.
+Currently building hands-on experience in Security Operations through practical labs and real-world alert investigations.
 
-### 🔍 What I Do
-- **SOC Operations**: Alert investigation, log analysis, incident response
-- **Threat Intelligence**: IOC extraction, MITRE ATT&CK mapping, threat hunting
-- **Security Research**: Honeypot deployment, malware analysis, penetration testing
+## 🔧 Skills & Tools
+- **Security Operations**: Alert Investigation, Log Analysis, Incident Response
+- **Tools**: Wireshark, Burp Suite, Metasploit, Nmap, Kali Linux
+- **Platforms**: TryHackMe, LetsDefend, HackTheBox
+- **Languages**: Python, Bash
 
-### 🛠️ Technical Skills
-python
+## 🎯 Currently Learning
+- SOC Level 1 path on TryHackMe
+- Investigating security alerts on LetsDefend
+- Preparing for CompTIA Security+ certification
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/jasminjamal/]
+- Email: jasminjamal7839@gmail.com
+
+
+---
+
+💼 Open to **SOC Analyst** and **Security Analyst** opportunities
