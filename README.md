@@ -10,4 +10,4 @@ Recent cybersecurity graduate from Coventry University (75% Distinction) with ha
 - **Security Research**: Honeypot deployment, malware analysis, penetration testing
 
 ### 🛠️ Technical Skills
-```python
+python
