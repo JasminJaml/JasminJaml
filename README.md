@@ -5,7 +5,7 @@ MSc Cybersecurity graduate (Distinction) from Coventry University, based in Glas
 
 ## 🛠️ What I've Built
 - **Honeypot Threat Dashboard** — A live SIEM platform on AWS using the ELK stack (Elasticsearch, Logstash, Kibana) and Filebeat. Deployed a honeypot, ingested real attack traffic, triaged thousands of alerts, and built dashboards to visualise attacker behaviour.
-- **Network Traffic Analysis Lab** — A virtual lab using VMware, Kali Linux, and Metasploitable 2. Ran Nmap scans to enumerate vulnerabilities, captured and analysed traffic with Wireshark, and documented remediation steps.
+- **Network Traffic Analysis Lab** — A virtual lab using VMware, Kali Linux, and Metasploitable. Ran Nmap scans to enumerate vulnerabilities, captured and analysed traffic with Wireshark, and documented remediation steps.
 
 ## 🔧 Skills & Tools
 - **SIEM & Monitoring:** ELK Stack, Filebeat, alert triage, log correlation
